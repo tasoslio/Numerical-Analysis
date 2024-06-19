@@ -1,4 +1,4 @@
-# Operations-Research
+# Numerical-Analysis
 This assignment took place in the course "Numerical Analysis" of Aristotle University of Thessaloniki at 4th Semester.
 
 ## :ledger: Description 
