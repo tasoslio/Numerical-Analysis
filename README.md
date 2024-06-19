@@ -5,7 +5,7 @@ This assignment took place in the course "Numerical Analysis" of Aristotle Unive
 Assignment's Presentation(only in Greek) : [here](Project_NA_2023.pdf)
 
 ### 
-This part implements a case of the known problem VRP(Vehicle Routing Problem).
+This assignment contains the implementation of numerical linear algebra techniques for LU and QR factorization, along with a function to generate Hilbert matrices. The primary goal is to solve linear systems and analyze the accuracy and stability of solutions.
 
 ##  :wrench: Development
 The files of the assignment were created with conda 4.10.1.
