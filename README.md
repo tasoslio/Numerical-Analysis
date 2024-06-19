@@ -2,7 +2,7 @@
 This assignment took place in the course "Operations-Research" of Aristotle University of Thessaloniki at 8th Semester. It contains two parts which described below.
 
 ## :ledger: Description 
-Assignment's Presentation(only in Greek) : [here](Project_OR_2021.pdf)
+Assignment's Presentation(only in Greek) : [here](Project_NA_2023.pdf)
 
 ### Part 1
 This part implements a case of the known problem VRP(Vehicle Routing Problem).
